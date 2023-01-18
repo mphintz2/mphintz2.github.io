@@ -1,6 +1,10 @@
-<div class="home-intro">
-    <div class="jumbo">{{site.heading}} </div>
-    <div class="home-sub-text"> <h3>Welcome to Arkaedia, Traveler 🌐</h3>
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
+# Welcome to Arkaedia, Traveler 🌐
 You have arrived at the home of a new D&D campaign set in a new world of my own hare-brained creation. I usually run modules, and it's been awhile since I've done this... so wish us all luck!
 This campaign will use [[westmarches|West Marches]] and [[Hexcrawl]] concepts.
 # Links
@@ -13,7 +17,4 @@ This campaign will use [[westmarches|West Marches]] and [[Hexcrawl]] concepts.
 	- [[Races]]
 	- [[Religion]]
 - [[PCs]]
-- [[NPCs]]        Check out the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> and <a href="{{'/post/how-to' | relative_url}}"> how to</a>.
-        
-</div> </div>
-
+- [[NPCs]]
