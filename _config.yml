@@ -69,6 +69,9 @@ collections:
     notes:
       output: true
       permalink: /note/:title
+    pcs:
+      output: true
+      permalink: /pcs/:title
 
 markdown: kramdown
 
