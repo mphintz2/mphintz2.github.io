@@ -1,5 +1,6 @@
 ---
 title: Gareth
+feed: show
 ---
 # Gareth, Son of Hammen
 ___

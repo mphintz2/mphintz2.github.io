@@ -1,5 +1,6 @@
 ---
 title: Zahra
+feed: show
 ---
 ![[assets/zahra.jpg]]
 

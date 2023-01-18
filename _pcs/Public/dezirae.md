@@ -1,5 +1,6 @@
 ---
 title: Dezirae Foxglove
+feed: show
 ---
 # Dezirae Foxglove
 ___
